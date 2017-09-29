@@ -27,7 +27,7 @@ PLATFORMS
 DEPENDENCIES
   deb-s3!
   minitest (~> 5)
-  rake (~> 11)
+  rake (~> 12)
 
 BUNDLED WITH
    1.13.0
